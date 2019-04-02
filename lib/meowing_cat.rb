@@ -1,4 +1,4 @@
 ## code your solution here. 
 class Cat
-  attr_anccesor :name
+  attr_anccessor :name
 end
